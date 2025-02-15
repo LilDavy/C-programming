@@ -1,3 +1,11 @@
+
+//c++ ptogram to show encapsulation
+/*Author David Otieno
+Reg No. BSCIT-05-0014/2024
+*/
+
+
+
 #include<iostream>
 using namespace std;
 
